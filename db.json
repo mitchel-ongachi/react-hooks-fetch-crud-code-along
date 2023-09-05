@@ -35,6 +35,21 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
-    }
+    },
+    {
+      "name": "Çay",
+    "category": "Dairy",
+    "isInCart": false,
+    "id": 7
+  },
+  {
+    "name": "Chocolate",
+    "category": "Dairy",
+    "isInCart": false,
+    "id": 8
+
+  }
+      
+    
   ]
 }
